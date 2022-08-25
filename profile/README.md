@@ -1,4 +1,4 @@
-![Forum Echo banner](ForumEcho_banner.png)
+![Forum Echo banner](https://cdn.discordapp.com/attachments/858379652846321665/1012268474296447006/ForumEcho_banner.png)
 
 # ForumEcho
 
