@@ -1,4 +1,4 @@
-![Forum Echo banner](../images/ForumEcho_banner.png)
+![Forum Echo banner](ForumEcho_banner.png)
 
 # ForumEcho
 
